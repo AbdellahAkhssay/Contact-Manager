@@ -1,4 +1,4 @@
-Contact Manager - README
+#Contact Manager - README
 📝 Description
 
 This project is a simple contact management program written in C.
