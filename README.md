@@ -1,6 +1,5 @@
-# Contact-Manager
-Contact Manager
-#📝 Description
+Contact Manager - README
+📝 Description
 
 This project is a simple contact management program written in C.
 The program allows you to:
@@ -15,7 +14,7 @@ Delete a contact
 
 It uses a struct to store the name and phone number and an array to keep the list of contacts.
 
-#⚙️ Features
+⚙️ Features
 
 Add Contact
 
